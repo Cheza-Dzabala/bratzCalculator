@@ -1,0 +1,6 @@
+c:\users\cheza\documents\visual studio 2017\Projects\bratzTeamDemo\bratzTeamDemo\bin\Debug\bratzTeamDemo.exe.config
+c:\users\cheza\documents\visual studio 2017\Projects\bratzTeamDemo\bratzTeamDemo\bin\Debug\bratzTeamDemo.exe
+c:\users\cheza\documents\visual studio 2017\Projects\bratzTeamDemo\bratzTeamDemo\bin\Debug\bratzTeamDemo.pdb
+c:\users\cheza\documents\visual studio 2017\Projects\bratzTeamDemo\bratzTeamDemo\obj\Debug\bratzTeamDemo.csprojResolveAssemblyReference.cache
+c:\users\cheza\documents\visual studio 2017\Projects\bratzTeamDemo\bratzTeamDemo\obj\Debug\bratzTeamDemo.exe
+c:\users\cheza\documents\visual studio 2017\Projects\bratzTeamDemo\bratzTeamDemo\obj\Debug\bratzTeamDemo.pdb
