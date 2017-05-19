@@ -14,7 +14,7 @@ namespace bratzTeamDemo
 
             string value = Console.ReadLine();
 
-            Console.WriteLine("You typed " + value);
+            Console.WriteLine("You typed This " + value);
 
             Console.ReadLine();
         }
