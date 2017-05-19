@@ -10,7 +10,7 @@ namespace bratzTeamDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome To The Matrix dude");
+            Console.WriteLine("Welcome To The Matrix");
 
             string value = Console.ReadLine();
 
