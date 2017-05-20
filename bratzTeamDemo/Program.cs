@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,7 +10,8 @@ namespace bratzTeamDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome To The Matrix");
+
+            Console.WriteLine("Welcome To The Matrix Calculator");
 
             string value = Console.ReadLine();
 
