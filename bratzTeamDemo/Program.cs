@@ -11,9 +11,12 @@ namespace bratzTeamDemo
         static void Main(string[] args)
         {
 <<<<<<< HEAD
+<<<<<<< HEAD
 
             Console.WriteLine("Welcome To The Matrix Calculator");
 =======
+=======
+>>>>>>> 9604e23... whatever
 <<<<<<< HEAD
             Console.WriteLine("Welcome To The Matrix");
 =======
@@ -23,7 +26,13 @@ namespace bratzTeamDemo
             Console.WriteLine("Welcome To The Matrix Calculator");
 >>>>>>> 9f40d2e... Just playing about
 >>>>>>> b986106... Just playing about
+<<<<<<< HEAD
 >>>>>>> 23e1323... Just playing about
+=======
+=======
+            Console.WriteLine("Welcome To The Matrix Calculator");
+>>>>>>> 7744715... whatever
+>>>>>>> 9604e23... whatever
 
             string value = Console.ReadLine();
 
