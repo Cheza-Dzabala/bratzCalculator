@@ -1,12 +1,18 @@
-c:\users\cheza\documents\visual studio 2017\Projects\bratzTeamDemo\bratzTeamDemo\bin\Debug\bratzTeamDemo.exe.config
-c:\users\cheza\documents\visual studio 2017\Projects\bratzTeamDemo\bratzTeamDemo\bin\Debug\bratzTeamDemo.exe
-c:\users\cheza\documents\visual studio 2017\Projects\bratzTeamDemo\bratzTeamDemo\bin\Debug\bratzTeamDemo.pdb
-c:\users\cheza\documents\visual studio 2017\Projects\bratzTeamDemo\bratzTeamDemo\obj\Debug\bratzTeamDemo.csprojResolveAssemblyReference.cache
-c:\users\cheza\documents\visual studio 2017\Projects\bratzTeamDemo\bratzTeamDemo\obj\Debug\bratzTeamDemo.exe
-c:\users\cheza\documents\visual studio 2017\Projects\bratzTeamDemo\bratzTeamDemo\obj\Debug\bratzTeamDemo.pdb
-C:\Users\Cheza\Source\Repos\bratzCalculator\bratzTeamDemo\obj\Debug\bratzTeamDemo.csprojResolveAssemblyReference.cache
-C:\Users\Cheza\Source\Repos\bratzCalculator\bratzTeamDemo\obj\Debug\bratzTeamDemo.exe
-C:\Users\Cheza\Source\Repos\bratzCalculator\bratzTeamDemo\obj\Debug\bratzTeamDemo.pdb
-C:\Users\Cheza\Source\Repos\bratzCalculator\bratzTeamDemo\bin\Debug\bratzTeamDemo.exe.config
-C:\Users\Cheza\Source\Repos\bratzCalculator\bratzTeamDemo\bin\Debug\bratzTeamDemo.exe
-C:\Users\Cheza\Source\Repos\bratzCalculator\bratzTeamDemo\bin\Debug\bratzTeamDemo.pdb
+c:/users/cheza/documents/visual studio 2017/Projects/bratzTeamDemo/bratzTeamDemo/bin/Debug/bratzTeamDemo.exe.config
+c:/users/cheza/documents/visual studio 2017/Projects/bratzTeamDemo/bratzTeamDemo/bin/Debug/bratzTeamDemo.exe
+c:/users/cheza/documents/visual studio 2017/Projects/bratzTeamDemo/bratzTeamDemo/bin/Debug/bratzTeamDemo.pdb
+c:/users/cheza/documents/visual studio 2017/Projects/bratzTeamDemo/bratzTeamDemo/obj/Debug/bratzTeamDemo.csprojResolveAssemblyReference.cache
+c:/users/cheza/documents/visual studio 2017/Projects/bratzTeamDemo/bratzTeamDemo/obj/Debug/bratzTeamDemo.exe
+c:/users/cheza/documents/visual studio 2017/Projects/bratzTeamDemo/bratzTeamDemo/obj/Debug/bratzTeamDemo.pdb
+C:/Users/Cheza/Source/Repos/bratzCalculator/bratzTeamDemo/obj/Debug/bratzTeamDemo.csprojResolveAssemblyReference.cache
+C:/Users/Cheza/Source/Repos/bratzCalculator/bratzTeamDemo/obj/Debug/bratzTeamDemo.exe
+C:/Users/Cheza/Source/Repos/bratzCalculator/bratzTeamDemo/obj/Debug/bratzTeamDemo.pdb
+C:/Users/Cheza/Source/Repos/bratzCalculator/bratzTeamDemo/bin/Debug/bratzTeamDemo.exe.config
+C:/Users/Cheza/Source/Repos/bratzCalculator/bratzTeamDemo/bin/Debug/bratzTeamDemo.exe
+C:/Users/Cheza/Source/Repos/bratzCalculator/bratzTeamDemo/bin/Debug/bratzTeamDemo.pdb
+/Users/liwu/Projects/BratzCalc/bratzTeamDemo/bin/Debug/bratzTeamDemo.exe.config
+/Users/liwu/Projects/BratzCalc/bratzTeamDemo/bin/Debug/bratzTeamDemo.exe
+/Users/liwu/Projects/BratzCalc/bratzTeamDemo/bin/Debug/bratzTeamDemo.exe.mdb
+/Users/liwu/Projects/BratzCalc/bratzTeamDemo/obj/Debug/bratzTeamDemo.csprojResolveAssemblyReference.cache
+/Users/liwu/Projects/BratzCalc/bratzTeamDemo/obj/Debug/bratzTeamDemo.exe
+/Users/liwu/Projects/BratzCalc/bratzTeamDemo/obj/Debug/bratzTeamDemo.exe.mdb
