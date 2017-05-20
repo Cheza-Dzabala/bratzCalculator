@@ -10,10 +10,10 @@ namespace bratzTeamDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Please input first digit.. ");
+            Console.WriteLine("Please input first digit. ");
             int num1 = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Please input second digit.. ");
+            Console.WriteLine("Please input second digit. ");
             int num2 = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Select Method: ");
