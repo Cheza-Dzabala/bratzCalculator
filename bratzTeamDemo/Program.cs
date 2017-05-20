@@ -28,11 +28,11 @@ namespace bratzTeamDemo
             switch(selection)
             {
                 case 1:
-                    Console.WriteLine("Subtraction");
+					Console.WriteLine($"{num1} - {num2} = {calculatorClass.subtraction(num1, num2)}"); 
                     break;
                 case 2:
-                    Console.WriteLine("Addition");
-                    break;
+					Console.WriteLine($"{num1} + {num2} = {calculatorClass.Add(num1, num2)}");
+					break;
                 case 3:
                     Console.WriteLine("Division");
                     break;

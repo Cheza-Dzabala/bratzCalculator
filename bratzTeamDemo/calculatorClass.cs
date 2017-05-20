@@ -8,15 +8,14 @@ namespace bratzTeamDemo
 {
     class calculatorClass
     {
-        private int numOne;
-        private int numTwo;
-
-        public  int subtraction(int num1, int num2)
-        {
-            numOne = num1;
-            numTwo = num2;
-
-            return numOne - numTwo;
+        public static int subtraction(int num1, int num2)
+		{
+            return num1 - num2;
         }
+
+		public static int Add(int num1, int num2)
+		{
+			return num1 + num2;
+		}
     }
 }
