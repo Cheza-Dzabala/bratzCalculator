@@ -10,14 +10,7 @@ namespace bratzTeamDemo
     {
         static void Main(string[] args)
         {
-
-            Console.WriteLine("Welcome To The Matrix Calculator");
-
-            string value = Console.ReadLine();
-
-            Console.WriteLine("You typed This " + value);
-
-            Console.ReadLine();
+			Console.WriteLine("This is the freshest!");
         }
     }
 }
