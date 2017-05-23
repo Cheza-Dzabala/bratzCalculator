@@ -17,5 +17,10 @@ namespace bratzTeamDemo
 		{
 			return num1 + num2;
 		}
+
+        public static float Multiply(int num1,int num2)
+            {
+            return num1 * num2;
+            }
     }
 }

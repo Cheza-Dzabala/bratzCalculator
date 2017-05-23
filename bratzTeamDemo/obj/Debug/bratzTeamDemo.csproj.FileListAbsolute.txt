@@ -16,3 +16,9 @@ C:/Users/Cheza/Source/Repos/bratzCalculator/bratzTeamDemo/bin/Debug/bratzTeamDem
 /Users/liwu/Projects/BratzCalc/bratzTeamDemo/obj/Debug/bratzTeamDemo.csprojResolveAssemblyReference.cache
 /Users/liwu/Projects/BratzCalc/bratzTeamDemo/obj/Debug/bratzTeamDemo.exe
 /Users/liwu/Projects/BratzCalc/bratzTeamDemo/obj/Debug/bratzTeamDemo.exe.mdb
+C:\projects\bratzCalculator\bratzTeamDemo\obj\Debug\bratzTeamDemo.csprojResolveAssemblyReference.cache
+C:\projects\bratzCalculator\bratzTeamDemo\obj\Debug\bratzTeamDemo.exe
+C:\projects\bratzCalculator\bratzTeamDemo\obj\Debug\bratzTeamDemo.pdb
+C:\projects\bratzCalculator\bratzTeamDemo\bin\Debug\bratzTeamDemo.exe.config
+C:\projects\bratzCalculator\bratzTeamDemo\bin\Debug\bratzTeamDemo.exe
+C:\projects\bratzCalculator\bratzTeamDemo\bin\Debug\bratzTeamDemo.pdb
